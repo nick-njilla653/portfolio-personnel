@@ -1,0 +1,196 @@
+{
+  "HomePage": {
+    "intro": "Hi, I'm Nicol Emmanuel NJILLA TCHAGADICK",
+    "location": "Based in Yaoundé, Cameroon 🇨🇲",
+    "location_type": "Onsite",
+    "resume": "Experienced and passionate Computer Engineering graduate specializing in Artificial Intelligence and Data Science. I work with Python, Java, and modern web technologies to build intelligent solutions. My expertise includes Machine Learning, Deep Learning, and full-stack development. I'm a collaborative and detail-oriented engineer committed to delivering innovative AI-powered applications across various domains including healthcare, agriculture, and logistics.",
+    "skills": {
+      "title": "Skills",
+      "sub_title": "My professional skills."
+    },
+    "bento": {
+      "title": "Featured Sections",
+      "sub_title": "Explore everything I've crafted, contributed, and accomplished."
+    }
+  },
+  "AboutPage": {
+    "title": "About",
+    "description": "A brief introduction to who I am.",
+    "resume": {
+      "paragraf_1": "Hello there! Thank you for visiting my personal website. I'm Nicol Emmanuel NJILLA TCHAGADICK, a Computer Engineering graduate from the École Nationale Supérieure Polytechnique de Yaoundé (ENSPY). I'm passionate about Artificial Intelligence and Data Science, with expertise in Machine Learning, Deep Learning, and full-stack development. My stack includes Python, Java, React, and various AI frameworks.",
+
+      "paragraf_2": "I specialize in creating intelligent solutions that solve real-world problems. From healthcare applications like cancer detection to agricultural IoT systems and logistics optimization, I aim to leverage AI to make a positive impact. I'm a fast learner who thrives in dynamic environments, and I enjoy solving complex problems collaboratively.",
+
+      "paragraf_3": "I believe that effective communication and team synergy are key to success in AI development. My experience has shaped my technical and analytical skills, as well as my leadership qualities. I'm always excited to work in teams, learn from others, and contribute to impactful AI projects.",
+
+      "paragraf_4": "Best regards,"
+    },
+    "career": {
+      "title": "Career",
+      "sub_title": "My professional journey."
+    },
+    "education": {
+      "title": "Education",
+      "sub_title": "My educational journey."
+    },
+    "resume_download_button": "Download Resume",
+    "portfolio_download_button": "Download Portfolio"
+  },
+  "AchievementsPage": {
+    "title": "Achievements",
+    "description": "A curated collection of certificates and badges I've earned throughout my professional and academic journey.",
+    "error": "An error occurred on the server.",
+    "no_data": "No data available.",
+    "show_credential": "Show Credentials"
+  },
+  "ProjectsPage": {
+    "title": "Projects",
+    "description": "A showcase of both private and open-source projects I've built or contributed to.",
+    "view_project": "View Project",
+    "tech_stack": "Tech Stack",
+    "back_button": "Back",
+    "source_code_text": "Source Code",
+    "live_demo_text": "Live Demo",
+    "error": "An error occurred on the server.",
+    "no_data": "No data available."
+  },
+  "DashboardPage": {
+    "title": "Dashboard",
+    "description": "My personal dashboard built with Next.js API routes, visualizing development statistics and contributions in real-time.",
+    "error": "An error occurred on the server.",
+    "umami": {
+      "title": "Umami",
+      "sub_title": "Monitor real-time traffic and interactions from my portfolio site.",
+      "overview": {
+        "page_views": "Page Views",
+        "visitors": "Visitors",
+        "visits": "Visits",
+        "countries": "Countries",
+        "events": "Events"
+      },
+      "chart": {
+        "title": "Traffic Trends",
+        "sessions": "Sessions",
+        "page_views": "Page Views"
+      },
+      "filter_placeholder": "Filter domain..."
+    },
+    "github": {
+      "title": "GitHub Contributions",
+      "sub_title": "My GitHub activity over the past year.",
+      "title_total_contribution": "Total",
+      "title_total_this_week_contributino": "This week",
+      "title_best_contribution": "Best",
+      "title_average_contribution": "Average",
+      "title_less_contribution": "Less",
+      "title_more_contribution": "More",
+      "unit": "day"
+    },
+    "wakatime": {
+      "title": "WakaTime Stats",
+      "sub_title": "Coding activity over the past 7 days.",
+      "last_update": "Last Update",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "daily_average": "Average Daily Coding Time",
+      "total_this_week": "Total This Week",
+      "best_day": "Best Day",
+      "all_time_since_joined": "All-Time Coding Since Joined",
+      "languages": "Top Languages"
+    },
+    "codewars": {
+      "title": "Codewars Stats",
+      "sub_title": "My coding challenges and problem-solving progress.",
+      "overall_rank": "Overall Rank",
+      "overall_score": "Overall Score",
+      "total_completed": "Total Completed",
+      "total_attempted": "Total Attempted",
+      "success_rate": "Success Rate",
+      "best_language": "Best Language",
+      "languages": "Languages",
+      "recent_challenges": "Recent Challenges"
+    },
+    "monkeytype": {
+      "title": "MonkeyType Stats",
+      "sub_title": "My typing speed and accuracy statistics.",
+      "personal_best": "Personal Best",
+      "average_speed": "Average Speed",
+      "accuracy": "Accuracy",
+      "tests_completed": "Tests Completed",
+      "time_typing": "Time Typing",
+      "words_typed": "Words Typed",
+      "characters_typed": "Characters Typed",
+      "leaderboard": "Leaderboard"
+    }
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "description": "Get in touch with me for collaborations or just a friendly hello.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send_button": "Send Message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "contact_info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "social_media": "Social Media"
+    }
+  },
+  "ChatPage": {
+    "title": "Chat Room",
+    "description": "Real-time chat room for discussions and collaborations.",
+    "login_required": "Please login to join the chat room.",
+    "login_button": "Login",
+    "chat_input": "Type your message...",
+    "send_button": "Send",
+    "online_users": "Online Users",
+    "typing": "is typing...",
+    "message_sent": "Message sent",
+    "message_error": "Failed to send message"
+  },
+  "SmartTalkPage": {
+    "title": "Smart Talk",
+    "description": "AI-powered conversation assistant for intelligent discussions.",
+    "welcome_message": "Hello! I'm your AI assistant. How can I help you today?",
+    "input_placeholder": "Ask me anything...",
+    "send_button": "Send",
+    "thinking": "Thinking...",
+    "error": "An error occurred. Please try again.",
+    "clear_chat": "Clear Chat",
+    "export_chat": "Export Chat"
+  },
+  "NotFoundPage": {
+    "title": "404 - Page Not Found",
+    "description": "The page you're looking for doesn't exist.",
+    "back_home": "Back to Home"
+  },
+  "Common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "upload": "Upload",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "refresh": "Refresh",
+    "copy": "Copy",
+    "share": "Share"
+  }
+}

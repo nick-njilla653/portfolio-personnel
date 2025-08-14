@@ -1,0 +1,196 @@
+{
+  "HomePage": {
+    "intro": "Bonjour, je suis Nicol Emmanuel NJILLA TCHAGADICK",
+    "location": "Basé à Yaoundé, Cameroun 🇨🇲",
+    "location_type": "Présentiel",
+    "resume": "Ingénieur en Génie Informatique passionné et expérimenté, spécialisé en Intelligence Artificielle et Science des Données. Je travaille avec Python, Java et les technologies web modernes pour construire des solutions intelligentes. Mon expertise inclut le Machine Learning, le Deep Learning et le développement full-stack. Je suis un ingénieur collaboratif et orienté détail, engagé à livrer des applications innovantes alimentées par l'IA dans divers domaines incluant la santé, l'agriculture et la logistique.",
+    "skills": {
+      "title": "Compétences",
+      "sub_title": "Mes compétences professionnelles."
+    },
+    "bento": {
+      "title": "Sections Principales",
+      "sub_title": "Explorez tout ce que j'ai créé, contribué et accompli."
+    }
+  },
+  "AboutPage": {
+    "title": "À Propos",
+    "description": "Une brève introduction de qui je suis.",
+    "resume": {
+      "paragraf_1": "Bonjour ! Merci de visiter mon portfolio personnel. Je suis Nicol Emmanuel NJILLA TCHAGADICK, diplômé en Génie Informatique de l'École Nationale Supérieure Polytechnique de Yaoundé (ENSPY). Je suis passionné par l'Intelligence Artificielle et la Science des Données, avec une expertise en Machine Learning, Deep Learning et développement full-stack. Mon stack inclut Python, Java, React et divers frameworks IA.",
+
+      "paragraf_2": "Je me spécialise dans la création de solutions intelligentes qui résolvent des problèmes réels. Des applications de santé comme la détection du cancer aux systèmes IoT agricoles et l'optimisation logistique, je vise à exploiter l'IA pour avoir un impact positif. Je suis un apprenant rapide qui s'épanouit dans des environnements dynamiques, et j'aime résoudre des problèmes complexes de manière collaborative.",
+
+      "paragraf_3": "Je crois que la communication efficace et la synergie d'équipe sont essentielles au succès dans le développement IA. Mon expérience a façonné mes compétences techniques et analytiques, ainsi que mes qualités de leadership. Je suis toujours excité de travailler en équipe, d'apprendre des autres et de contribuer à des projets IA impactants.",
+
+      "paragraf_4": "Cordialement,"
+    },
+    "career": {
+      "title": "Carrière",
+      "sub_title": "Mon parcours professionnel."
+    },
+    "education": {
+      "title": "Formation",
+      "sub_title": "Mon parcours éducatif."
+    },
+    "resume_download_button": "Télécharger CV",
+    "portfolio_download_button": "Télécharger Portfolio"
+  },
+  "AchievementsPage": {
+    "title": "Réalisations",
+    "description": "Une collection organisée de certificats et badges que j'ai obtenus tout au long de mon parcours professionnel et académique.",
+    "error": "Une erreur s'est produite sur le serveur.",
+    "no_data": "Aucune donnée disponible.",
+    "show_credential": "Afficher les Credentials"
+  },
+  "ProjectsPage": {
+    "title": "Projets",
+    "description": "Une vitrine des projets privés et open-source que j'ai construits ou auxquels j'ai contribué.",
+    "view_project": "Voir le Projet",
+    "tech_stack": "Stack Technologique",
+    "back_button": "Retour",
+    "source_code_text": "Code Source",
+    "live_demo_text": "Démo Live",
+    "error": "Une erreur s'est produite sur le serveur.",
+    "no_data": "Aucune donnée disponible."
+  },
+  "DashboardPage": {
+    "title": "Tableau de Bord",
+    "description": "Mon tableau de bord personnel construit avec les routes API Next.js, visualisant les statistiques de développement et contributions en temps réel.",
+    "error": "Une erreur s'est produite sur le serveur.",
+    "umami": {
+      "title": "Umami",
+      "sub_title": "Surveillez le trafic et les interactions en temps réel de mon site portfolio.",
+      "overview": {
+        "page_views": "Pages Vues",
+        "visitors": "Visiteurs",
+        "visits": "Visites",
+        "countries": "Pays",
+        "events": "Événements"
+      },
+      "chart": {
+        "title": "Tendances du Trafic",
+        "sessions": "Sessions",
+        "page_views": "Pages Vues"
+      },
+      "filter_placeholder": "Filtrer le domaine..."
+    },
+    "github": {
+      "title": "Contributions GitHub",
+      "sub_title": "Mon activité GitHub au cours de l'année écoulée.",
+      "title_total_contribution": "Total",
+      "title_total_this_week_contributino": "Cette semaine",
+      "title_best_contribution": "Meilleur",
+      "title_average_contribution": "Moyenne",
+      "title_less_contribution": "Moins",
+      "title_more_contribution": "Plus",
+      "unit": "jour"
+    },
+    "wakatime": {
+      "title": "Statistiques WakaTime",
+      "sub_title": "Activité de codage au cours des 7 derniers jours.",
+      "last_update": "Dernière Mise à Jour",
+      "start_date": "Date de Début",
+      "end_date": "Date de Fin",
+      "daily_average": "Temps de Codage Moyen Quotidien",
+      "total_this_week": "Total Cette Semaine",
+      "best_day": "Meilleur Jour",
+      "all_time_since_joined": "Temps de Codage Total Depuis l'Adhésion",
+      "languages": "Langages Principaux"
+    },
+    "codewars": {
+      "title": "Statistiques Codewars",
+      "sub_title": "Mes défis de codage et progrès en résolution de problèmes.",
+      "overall_rank": "Rang Global",
+      "overall_score": "Score Global",
+      "total_completed": "Total Complétés",
+      "total_attempted": "Total Tentés",
+      "success_rate": "Taux de Réussite",
+      "best_language": "Meilleur Langage",
+      "languages": "Langages",
+      "recent_challenges": "Défis Récents"
+    },
+    "monkeytype": {
+      "title": "Statistiques MonkeyType",
+      "sub_title": "Mes statistiques de vitesse et précision de frappe.",
+      "personal_best": "Meilleur Personnel",
+      "average_speed": "Vitesse Moyenne",
+      "accuracy": "Précision",
+      "tests_completed": "Tests Complétés",
+      "time_typing": "Temps de Frappe",
+      "words_typed": "Mots Tapés",
+      "characters_typed": "Caractères Tapés",
+      "leaderboard": "Classement"
+    }
+  },
+  "ContactPage": {
+    "title": "Contact",
+    "description": "Contactez-moi pour des collaborations ou juste un bonjour amical.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "send_button": "Envoyer Message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès !",
+      "error": "Échec de l'envoi du message. Veuillez réessayer."
+    },
+    "contact_info": {
+      "title": "Informations de Contact",
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Localisation",
+      "social_media": "Réseaux Sociaux"
+    }
+  },
+  "ChatPage": {
+    "title": "Salle de Chat",
+    "description": "Salle de chat en temps réel pour discussions et collaborations.",
+    "login_required": "Veuillez vous connecter pour rejoindre la salle de chat.",
+    "login_button": "Se Connecter",
+    "chat_input": "Tapez votre message...",
+    "send_button": "Envoyer",
+    "online_users": "Utilisateurs en Ligne",
+    "typing": "est en train d'écrire...",
+    "message_sent": "Message envoyé",
+    "message_error": "Échec de l'envoi du message"
+  },
+  "SmartTalkPage": {
+    "title": "Smart Talk",
+    "description": "Assistant de conversation alimenté par l'IA pour discussions intelligentes.",
+    "welcome_message": "Bonjour ! Je suis votre assistant IA. Comment puis-je vous aider aujourd'hui ?",
+    "input_placeholder": "Demandez-moi n'importe quoi...",
+    "send_button": "Envoyer",
+    "thinking": "Réflexion en cours...",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "clear_chat": "Effacer le Chat",
+    "export_chat": "Exporter le Chat"
+  },
+  "NotFoundPage": {
+    "title": "404 - Page Non Trouvée",
+    "description": "La page que vous recherchez n'existe pas.",
+    "back_home": "Retour à l'Accueil"
+  },
+  "Common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "retry": "Réessayer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "close": "Fermer",
+    "save": "Sauvegarder",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "download": "Télécharger",
+    "upload": "Téléverser",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "refresh": "Actualiser",
+    "copy": "Copier",
+    "share": "Partager"
+  }
+} 

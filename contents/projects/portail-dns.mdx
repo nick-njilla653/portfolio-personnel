@@ -1,0 +1,159 @@
+## 📘 Introduction
+
+Le **Portail DNS** est un projet académique développé à l'École Nationale Supérieure Polytechnique de Yaoundé (ENSPY) en **Mai 2024**. Ce projet vise à créer un système de gestion DNS complet avec des fonctionnalités avancées de configuration et d'administration.
+
+---
+
+## 🎯 Objectifs du Projet
+
+- **Configuration DNS complète** : Mise en place d'un serveur DNS local avec zones directes et inverses
+- **Gestion dynamique** : Ajout automatique d'enregistrements DNS A et PTR
+- **Interface d'administration** : Interface web pour la gestion des zones DNS
+- **Sécurité** : Implémentation de mesures de sécurité pour protéger le serveur DNS
+
+---
+
+## ⚙️ Technologies Utilisées
+
+### Backend
+- **BIND (Berkeley Internet Name Domain)** : Serveur DNS principal
+- **Python** : Scripts d'automatisation et API
+- **Shell Scripting** : Scripts de configuration et maintenance
+
+### Frontend
+- **HTML/CSS** : Interface utilisateur
+- **JavaScript** : Interactions dynamiques
+- **Bootstrap** : Framework CSS pour le design responsive
+
+### Infrastructure
+- **Linux** : Système d'exploitation serveur
+- **Docker** : Conteneurisation (optionnel)
+- **Git** : Gestion de version
+
+---
+
+## 🚀 Fonctionnalités Principales
+
+### 1. Configuration DNS Avancée
+- **Zones directes** : Résolution de noms vers adresses IP
+- **Zones inverses** : Résolution d'adresses IP vers noms
+- **Enregistrements multiples** : Support A, AAAA, CNAME, MX, TXT, etc.
+
+### 2. Gestion Dynamique
+- **Ajout automatique** d'enregistrements DNS A et PTR
+- **Mise à jour en temps réel** des zones DNS
+- **Validation** des entrées utilisateur
+
+### 3. Interface d'Administration
+- **Dashboard** de gestion des zones DNS
+- **Formulaires** d'ajout/modification d'enregistrements
+- **Visualisation** de la structure DNS
+- **Logs** et monitoring
+
+### 4. Sécurité
+- **Contrôle d'accès** basé sur les rôles
+- **Validation** des données d'entrée
+- **Audit trail** des modifications
+- **Protection** contre les attaques DNS
+
+---
+
+## 🏗 Architecture du Système
+
+```
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   Interface     │    │   API Python    │    │   Serveur BIND  │
+│   Web           │◄──►│   (Scripts)     │◄──►│   (DNS Server)  │
+│                 │    │                 │    │                 │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+         │                       │                       │
+         │                       │                       │
+         ▼                       ▼                       ▼
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   Base de       │    │   Fichiers de   │    │   Zones DNS     │
+│   Données       │    │   Configuration │    │   (Zones)       │
+│   (Logs)        │    │   BIND          │    │                 │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+```
+
+---
+
+## 📋 Processus de Développement
+
+### Phase 1 : Analyse et Conception
+- **Étude des besoins** : Analyse des exigences DNS
+- **Architecture** : Conception de l'architecture système
+- **Planification** : Définition des étapes de développement
+
+### Phase 2 : Configuration BIND
+- **Installation** : Mise en place du serveur BIND
+- **Configuration** : Paramétrage des zones DNS
+- **Tests** : Validation de la configuration de base
+
+### Phase 3 : Développement des Scripts
+- **Scripts Python** : Automatisation des tâches DNS
+- **API REST** : Interface de programmation
+- **Validation** : Tests des scripts
+
+### Phase 4 : Interface Web
+- **Frontend** : Développement de l'interface utilisateur
+- **Intégration** : Connexion avec l'API
+- **Tests** : Validation de l'interface
+
+### Phase 5 : Tests et Déploiement
+- **Tests complets** : Validation du système
+- **Documentation** : Rédaction de la documentation
+- **Déploiement** : Mise en production
+
+---
+
+## 🎯 Résultats Obtenus
+
+### Fonctionnalités Réalisées
+✅ **Serveur DNS fonctionnel** avec zones directes et inverses  
+✅ **Ajout dynamique** d'enregistrements DNS A et PTR  
+✅ **Interface d'administration** web intuitive  
+✅ **Scripts d'automatisation** Python  
+✅ **Documentation complète** du système  
+
+### Compétences Développées
+- **Administration système Linux**
+- **Configuration DNS avancée**
+- **Développement Python**
+- **Interface web responsive**
+- **Gestion de projet informatique**
+
+---
+
+## 📚 Apprentissages
+
+### Techniques
+- **Maîtrise de BIND** : Configuration avancée du serveur DNS
+- **Scripting Python** : Automatisation des tâches système
+- **Sécurité DNS** : Protection contre les attaques courantes
+- **Monitoring** : Surveillance des performances DNS
+
+### Méthodologiques
+- **Gestion de projet** : Planification et suivi
+- **Documentation** : Rédaction technique
+- **Tests** : Validation et qualité
+- **Déploiement** : Mise en production
+
+---
+
+## 🔗 Liens et Ressources
+
+- **Repository GitHub** : [Portail DNS ENSPY](https://github.com/nick-njilla653/portail-dns)
+- **Documentation** : Guide d'installation et d'utilisation
+- **Présentation** : Slides de présentation du projet
+
+---
+
+## 📄 Licence
+
+Ce projet est développé dans le cadre académique de l'ENSPY.  
+Code source disponible sous licence MIT.
+
+---
+
+**Développé avec passion pour l'administration système et les réseaux** 🖥️ 

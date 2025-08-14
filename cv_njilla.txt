@@ -1,0 +1,108 @@
+
+NJILLA TCHAGADICK
+Nicol Emmanuel
+
+Ingénieur en Génie Informatique diplomé de l’Ecole Nationale Supérieure Polytechnique de Yaoundé (ENSPY)
+
+
+email: ntchagadick@gmail.com
+Domicile:  Mimboman, Yaoundé 
+lien linkedIn: https://www.linkedin.com/in/nicol-emmanuel-njilla-tchagadick-224234291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
+lien github: https://github.com/nick-njilla653
+numero de tel: +237 656720356
+
+
+
+
+
+
+
+Etat Civil
+
+Age : 22 ans ; Nationalité : Camerounais ; Permis B.
+Ingénieur en Génie Informatique diplômé de la prestigieuse Ecole Nationale Supérieure Polytechnique de Yaoundé. Je suis une personne créative avec un esprit ouvert à la découverte des approches les plus efficaces, et j'aime explorer des solutions alternatives aux défis. Ma capacité d'apprentissage et de compréhension est un atout exceptionnel. Je suis une personne motivée, animée par le désir de contribuer à tout projet, en particulier
+dans le domaine des science de données; je possède également des qualités de leadership. 
+
+Langues
+Français : Courant
+Anglais : Intermédiaire (B2)
+
+Expériences professionnelles
+- Stage pré-ingénieur en IA Port Autonome de Douala – Cameroun de Février 2025 à Juin 2025 : Stagiaire académique pour soutenance dans le département des Systèmes d’Information (Projet de conception et de développement d’un agent IA de codification des marchandises avec interface Chatbot)
+- Stage pré-ingénieur en Informatique Port Autonome de Douala – Cameroun de Juin 2024 à Août 2024 : Stagiaire académique dans le département des Systèmes d’Information (Projet de développement d’une application mobile de fiche de pilotage)
+- Enseignant de Mathématiques physique Informatique aux étudiants inscrits en classe prépas polytechnique Intelligentsia Corporation à Temps partiel Yaoundé – Cameroun de Juin 2021 à Août 2024.
+
+Diplômes et Formations
+- Baccalauréat C, Collège de la Retraite Yaoundé, CE, Cameroun de Septembre 2019 à Juin 2020 ;
+- Certificat d’Aptitude Professionnel en Gestion Avancée de Projet option Evaluation des Charges et Planification Ecole Nationale Supérieure Polytechnique Yaoundé, CE, Cameroun de Septembre 2023 à mars 2024 ;
+- Diplôme d’Ingénieur de conception en Génie Informatique Ecole Nationale Supérieure Polytechnique Yaoundé, CE, Cameroun de Septembre 2020 à Juillet 2025 ;
+
+
+Projets significatifs 
+Portail DNS (ENSPY) Mai 2024
+-	Ajout dynamique d’un enregistrement DNS A + PTR à BIND
+-	Installation, configuration et préparation d’un serveur DNS local complet avec zones directe + inverse
+
+Model IA Mbong (Personnel) Décembre 2024
+-	Modèle IA de proposition de repas locaux camerounais en fonction des exigences caloriques et des ingrédients d’un utilisateur pour MBONG une application de composition de repas équilibrés
+
+Service IA pour une plateforme IOT Agricole Web et Mobile (ENSPY) Décembre 2024
+-	Analyse des sentiments des utilisateurs
+-	Prédictions des cultures et des rendements agricoles
+-	Explicabilité des modèles
+-	Développement d’un système de recommandation basé sur le filtrage collaboratif
+
+Pancreas IA (ENSPY) Janvier 2025
+-	Modèle IA permettant d’analyser les données issues d’une consultation et des images d’un scanner d’un patient et de déterminer s’il est ou non atteint d’un cancer du pancréas et le grade
+-	Interface permettant d’entrées les informations du patient et de retourner le résultat
+
+Système Intelligent de Codification des marchandises (Port Autonome de Douala) Août 2025
+-	Modèle IA permettant la classification tarifaire des marchandises adapté aux exigences du PAD 
+-	Assistant IA utilisant la technologie RAG pour assistance dans le processus de codification
+-	Application web moderne et intuitive avec système de monitoring et de logging embarqué
+
+
+Compétences
+Langage de Programmation : Java, Python, Javascript, React Js, Html, Css, Php, API REST
+Intelligence Artificielle: Machine Learning, Deep Learning, Analyse des Données, RAG
+Base de données : MySQL, MySQL Server, PostgreSQL.
+Frameworks: Bootstrap, Spring boot, Django, Flutter, Android Studio, Next Js, Node Js
+Outils Technologiques : Visual Studio Code, IntelliJ IDE, Docker, Anaconda, Google Colab, Figma, Canva, SceneBuilder, GitHub.     
+Mathématiques : Modélisation mathématiques, Statistiques, Probabilités, Analyse numérique.
+Gestion de Projet : Méthode Agile, Méthode SCRUM, Evaluation des Charges, Planification
+Soft Skills : Epistémophile & Pragmatique, Dynamique et volontaire, Intelligence émotionnelle, Leadership, Sens de la communication et de la négociation, Sens de la pédagogie et esprit critique, Fidèle et honnête, multitâches, Rigueur, travail d'équipe, facilité d'adaptation.
+
+Certifications
+•	Formation MySQL de A à Z : 
+https://www.udemy.com/certificate/UC-869a19bf-377d-401d-9917-a5257b9147ab/
+
+•	Kotlin Mastering – Complet Kotlin Web Development Course: 
+https://www.udemy.com/certificate/UC-7974c15e-a40d-47f2-8545-d6ed472ff453/
+
+•	Fortinet Certified Associate in Cybersecurity: 
+ID 0091657592NN
+
+•	Fortinet Certified Fundamentals in Cybersecurity: 
+ID 1749650876NN
+•	Initiation à la programmation (en java)
+ https://www.coursera.org/account/accomplishments/certificate/G8S94BXJNSHM
+•	Introduction à la programmation orientée objet (en java)
+ https://www.coursera.org/account/accomplishments/certificate/4EVXBJVJJKEV
+
+Expériences associatives
+IA For Africa Initiatives : Yaoundé – Cameroun de 21 mars 2024 à Aujourd’hui : Membre;
+African Childhood Dreams : Yaoundé – Cameroun de 10 mars 2024 à Aujourd’hui : Chargé de l’Organisation et de la Planification des Evènements. Cette association a pour mission l’éducation numérique des jeunes au Cameroun
+ENSPY AI Community : Yaoundé – Cameroun de Décembre 2022 à Aujourd’hui : Membre;
+Parrainage de nouveaux étudiants ENSPY Yaoundé-Cameroun Septembre 2021
+CEBAMB ENSPY : Yaoundé – Cameroun de Septembre 2020 à Aujourd’hui : Membre actif du Cercle des Etudiants Bassa’a Mpo’o Bati de l’ENSPY
+CESA POLYTECH : Yaoundé – Cameroun de Septembre 2020 à Aujourd’hui : Membre actif du Cercle des Etudiants Sawas de l’ENSPY
+POLYTECH SUD : Yaoundé – Cameroun de Septembre 2020 à Aujourd’hui : Membre actif du Cercle des Etudiants ressortissants de la région du SUD de l’ENSPY
+
+Références
+M. MARIGOH M’BOUA MARCELLIN ERIC : Chef de développement et d’intégration des Applications, DSI, PAD (Tel : +237 699 100 157).
+
+Centre d'intérêts
+Evènementiel : Organisateur d’évènements festifs et rentables pendant les vacances (Foires Exposition-Vente-Concert) ;
+Musique : Chanter ;
+Découverte de nouvelles cultures : Voyages, cuisine ;
+Sport : Basketball, Football, Natation, Sport en salle
